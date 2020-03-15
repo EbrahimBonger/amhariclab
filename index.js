@@ -16,9 +16,6 @@ var gameInterval = null
  * Be aware of what's above this line,
  * but all of your work should happen below.
  */
-function setup() {
-    createCanvas(400, 400);
-  }
   
   
 
